@@ -29,9 +29,6 @@ List the ready features here:
 - Settings
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
